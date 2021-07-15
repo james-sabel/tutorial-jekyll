@@ -3,7 +3,7 @@ layout: default
 title: Tutorial de Jekyll - Início
 ---
 # Tutorial básico de Jekyll
-![Logo do Jekyll](/assets/images/logo-jekyll.png "Logo do Jekyll"){:height="auto" width="300"}
+![Logo do Jekyll](assets/images/logo-jekyll.png "Logo do Jekyll"){:height="auto" width="300"}
 
 ---
 
