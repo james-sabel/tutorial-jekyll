@@ -13,8 +13,8 @@ Eu criei este guia como uma forma de ajudar outros writers, developers ou entusi
 
 Este é apenas um pontapé inicial para quem nunca usou o Jekyll e está procurando um guia rápido de instalação e dos comandos básicos.
 
-<span class="nota azul">Se você não está familiarizado com coisas como Ruby, Ruby Gems, Markdown e Liquid, eu recomendo dar uma olhada na seguinte seção antes de começar o tutorial: [O que é Jekyll?](/o-que-e-jekyll.html)<br><br>
-Ou, se preferir, vá direto para a [página de primeiros passos](/primeiros-passos.html) para instalar e começar a usar o Jekyll.</span>
+<span class="nota azul">Se você não está familiarizado com coisas como Ruby, Ruby Gems, Markdown e Liquid, eu recomendo dar uma olhada na seguinte seção antes de começar o tutorial: [O que é Jekyll?](o-que-e-jekyll.html)<br><br>
+Ou, se preferir, vá direto para a [página de primeiros passos](primeiros-passos.html) para instalar e começar a usar o Jekyll.</span>
 
 ---
 

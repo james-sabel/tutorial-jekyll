@@ -28,7 +28,7 @@ Se você conhece **CSS**, essa também é uma alternativa para customizar a apar
 
 ---
 
-## Visualize o projeto criado
+## Veja o projeto criado
 
 1. No **prompt de comando**, certifique-se de que você está posicionado no diretório onde seu projeto foi instalado. No exemplo deste tutorial, o local é este: **c:\projeto-tutorial\projeto-tutorial**.
 
@@ -39,7 +39,7 @@ Se você conhece **CSS**, essa também é uma alternativa para customizar a apar
 
 3. Quando aparecer a mensagem indicando que o **build** foi finalizado, abra um navegador de sua preferência e acesse o seguinte endereço: **http://localhost:4000/**
 
-Com isso você já poderá visualizar a versão inicial do seu site gerado.  
+Com isso você já poderá ver a versão inicial do seu site gerado.  
 <br>
 ### <i class="fas fa-lightbulb"></i> Entenda como funciona o build do Jekyll
 

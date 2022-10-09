@@ -74,7 +74,7 @@ Se você quiser se aprofundar nos outros recursos do Liquid, você pode consulta
 
 Para facilitar a criação da documentação usando Markdown e Liquid, é importante usar um bom software que permita editar **texto e código** (*text+code*).
 
-Você até pode usar um processador de texto qualquer e salvá-lo no formato **.md**, por exemplo. Desde que o texto esteja com a sintaxe e formato certos, vai funcionar. Mas a criação de um site usando o Jekyll permite misturar diversas linguagens, como já falei anterirmente.
+Você até pode usar um processador de texto qualquer e salvá-lo no formato **.md**, por exemplo. Desde que o texto esteja com a sintaxe e formato corretos, vai funcionar. Mas a criação de um site usando o Jekyll permite misturar diversas linguagens.
 
 Usando um editor text+code, você vai criar conteúdo muito mais facilmente, pois ele facilita o controle dos seus arquivos e das linguagens que você vai usar.
 
